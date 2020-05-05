@@ -1,4 +1,0 @@
-
-2020-05-05 11-40-50::com.automatics.packages.library.Utils.RunScript
-[AutomaticsAPI - postJSONToAPI()] - Exception : no protocol: null/addTestRun
-Could Not start TestCase Reporting A JSONObject text must begin with '{' at 1 [character 2 line 1]

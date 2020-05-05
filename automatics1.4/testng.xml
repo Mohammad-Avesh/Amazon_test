@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="TestBatch">
 	<suite-files>
-		<suite-file path="./com.automatics.data/com/automatics/data/temp/demo_ts.xml"/>
+		<suite-file path="./com.automatics.data/com/automatics/data/temp/amazon_ts.xml"/>
 	</suite-files>
 
 	
