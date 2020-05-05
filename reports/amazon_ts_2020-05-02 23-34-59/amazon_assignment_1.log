@@ -1,0 +1,14 @@
+
+2020-05-02 23-34-59::com.automatics.packages.library.Utils.RunScript
+[AutomaticsAPI - postJSONToAPI()] - Exception : no protocol: null/addTestRun
+Could Not start TestCase Reporting A JSONObject text must begin with '{' at 1 [character 2 line 1]
+
+2020-05-02 23-34-59::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-02 23-34-59::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-02 23-34-59::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-02 23-34-59::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-02 23-35-19::com.automatics.packages.library.Android_Hybrid.launchApp

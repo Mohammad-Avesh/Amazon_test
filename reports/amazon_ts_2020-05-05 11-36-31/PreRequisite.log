@@ -1,0 +1,18 @@
+[AutomaticsAPI - postJSONToAPI()] - Exception : no protocol: null/startSuiteRun
+nullproject=null&searchSuiteByExecId=2020-05-05_11:36:31
+
+2020-05-05 11-36-31::com.automatics.packages.library.SeleniumGrid.gridStartHub
+-----Selenium Grid Hub Response----
+Selenium Grid not  Started
+
+2020-05-05 11-36-41::com.automatics.packages.library.SeleniumGrid.gridStartFirefox
+-----Firefox Grid Response----
+Firefox Grid not Started
+
+2020-05-05 11-36-50::com.automatics.packages.library.SeleniumGrid.gridStartChrome
+-----Chrome Grid Response----
+Chrome Grid Started
+
+2020-05-05 11-36-58::com.automatics.packages.library.SeleniumGrid.gridStartIE
+-----IE Grid Response----
+IE Grid Started

@@ -1,0 +1,93 @@
+
+2020-05-05 15-09-09::com.automatics.packages.library.Utils.RunScript
+
+2020-05-05 15-09-09::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 15-09-09::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 15-09-09::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 15-09-09::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 15-09-19::com.automatics.packages.library.Android_Hybrid.launchApp
+
+2020-05-05 15-10-50::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 15-10-53::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 15-11-03::com.automatics.packages.library.Android_Hybrid.type
+
+2020-05-05 15-11-08::com.automatics.packages.library.Android_Hybrid.native_HideKeyboard
+
+2020-05-05 15-11-09::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 15-11-14::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 15-11-15::com.automatics.packages.library.Android_Hybrid.type
+
+2020-05-05 15-12-10::com.automatics.packages.library.Android_Hybrid.native_HideKeyboard
+
+2020-05-05 15-12-10::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 15-12-11::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 15-12-19::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 15-12-27::com.automatics.packages.library.Android_Hybrid.wait
+Run Time
+Error: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'INMUCHLP03121', ip: '192.168.42.143', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: com.amazon.mShop.android.sh..., chromedriverExecutable: D:\independent framework\au..., databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: com.amazon.mShop.android.sh..., chromedriverExecutable: D:\independent framework\au..., deviceConnectIgnoreSession: true, deviceName: Android, newCommandTimeout: 100, platformName: android, udid: c93fcc08}, deviceApiLevel: 28, deviceConnectIgnoreSession: true, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 5 Pro, deviceName: c93fcc08, deviceScreenDensity: 440, deviceScreenSize: 1080x2160, deviceUDID: c93fcc08, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 100, pixelRatio: 2.75, platform: LINUX, platformName: LINUX, platformVersion: 9, statBarHeight: 66, takesScreenshot: true, udid: c93fcc08, viewportRect: {height: 1964, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: fb58be4b-d6fb-4e8b-b738-6862b67e6a40
+*** Element info: {Using=-android uiautomator, value=new UiScrollable(new UiSelector().resourceId("com.amazon.mShop.android.shopping:id/rs_search_results_root")).scrollIntoView(new UiSelector().text("Nutraj California Almonds 1Kg"))}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:129)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.FindsByAndroidUIAutomator.findElementByAndroidUIAutomator(FindsByAndroidUIAutomator.java:38)
+	at io.appium.java_client.MobileBy$ByAndroidUIAutomator.findElement(MobileBy.java:236)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at com.automatics.packages.library.Project_Specific.scrollintoview_Almonds_click(Project_Specific.java:73)
+	at com.automatics.packages.testScripts.amazon.test(amazon.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+ -- false -- [Expected - True, Actual - False]
+Closing Browser after testcase
+Browser Closed

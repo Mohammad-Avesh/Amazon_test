@@ -1,0 +1,28 @@
+
+2020-05-05 11-37-05::com.automatics.packages.library.Utils.RunScript
+[AutomaticsAPI - postJSONToAPI()] - Exception : no protocol: null/addTestRun
+Could Not start TestCase Reporting A JSONObject text must begin with '{' at 1 [character 2 line 1]
+
+2020-05-05 11-37-06::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 11-37-07::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 11-37-07::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 11-37-07::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 11-37-17::com.automatics.packages.library.Android_Hybrid.launchApp
+
+2020-05-05 11-38-54::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 11-38-59::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 11-39-00::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 11-39-42::com.automatics.packages.library.Android_Hybrid.type
+
+2020-05-05 11-39-44::com.automatics.packages.library.Android_Hybrid.native_HideKeyboard
+
+2020-05-05 11-39-47::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 11-39-55::com.automatics.packages.library.Android_Hybrid.click

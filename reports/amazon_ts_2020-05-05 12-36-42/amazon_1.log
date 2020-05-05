@@ -1,0 +1,40 @@
+
+2020-05-05 12-36-42::com.automatics.packages.library.Utils.RunScript
+
+2020-05-05 12-36-42::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 12-36-42::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 12-36-42::com.automatics.packages.library.Android_Hybrid.set_AndroidPreference
+
+2020-05-05 12-36-42::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 12-36-52::com.automatics.packages.library.Android_Hybrid.launchApp
+
+2020-05-05 12-37-59::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 12-38-02::com.automatics.packages.library.Android_Hybrid.type
+
+2020-05-05 12-38-09::com.automatics.packages.library.Android_Hybrid.native_HideKeyboard
+
+2020-05-05 12-38-09::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 12-38-11::com.automatics.packages.library.Android_Hybrid.type
+
+2020-05-05 12-38-16::com.automatics.packages.library.Android_Hybrid.native_HideKeyboard
+
+2020-05-05 12-38-16::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 12-38-18::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 12-38-31::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 12-38-44::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 12-39-03::com.automatics.packages.library.Android_Hybrid.click
+
+2020-05-05 12-39-05::com.automatics.packages.library.Android_Hybrid.wait
+
+2020-05-05 12-39-10::com.automatics.packages.library.Android_Hybrid.verify_ElementPresent
+Closing Browser after testcase
+Browser Closed

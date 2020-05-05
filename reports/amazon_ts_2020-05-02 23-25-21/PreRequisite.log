@@ -1,0 +1,20 @@
+Report Data posted Successfully
+http://localhost:80/AutoMaTicsReport//index.html?project=demo&searchSuiteByExecId=2020-05-02_23:25:21
+
+2020-05-02 23-25-22::com.automatics.packages.library.SeleniumGrid.gridStartHub
+-----Selenium Grid Hub Response----
+Found Already Started - http://localhost:4444/wd/status
+
+2020-05-02 23-25-23::com.automatics.packages.library.SeleniumGrid.gridStartFirefox
+-----Firefox Grid Response----
+Found Already Started - http://localhost:5555/wd/hub/status
+
+2020-05-02 23-25-23::com.automatics.packages.library.SeleniumGrid.gridStartChrome
+-----Chrome Grid Response----
+Found Already Started - http://localhost:5559/wd/hub/status
+
+2020-05-02 23-25-24::com.automatics.packages.library.SeleniumGrid.gridStartIE
+-----IE Grid Response----
+Found Already Started - http://localhost:5558/wd/hub/status
+Report Data posted Successfully
+Logs:  D:\independent framework/reports/amazon_ts_2020-05-02 23-25-21
